@@ -8,3 +8,13 @@ CSE110 :  Programming Language I
 
 ## Suggested Texts:
 1. Appropriate book for the language chosen by the course teacher.
+
+
+# CSE111 Lab Solution 
+CSE111 is a course that teaches Object-Oriented Programming with Python.
+
+These solutions are meant for reference and educational purposes only. While you can use these solutions to understand the methods and approaches, plagiarism is strictly prohibited.
+
+Directly copying the code violates academic integrity policies and hinders your learning and understanding of the subject. Always attempt to complete the assignments independently before looking at these solutions.
+
+For corrections or suggestions, please contact me at monowar@monowar.me or monowarhusainomi@gmail.com
